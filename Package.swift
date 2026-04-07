@@ -33,7 +33,7 @@ let package = Package(
         .binaryTarget(
             name: "REVUPMediaMaxAdapterBidMachine",
             url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.0.0/REVUPMediaMaxAdapterBidMachine.zip",
-            checksum: "81ff721a542ced5fd8c7dd23cd2314d9a6c4e0eb2aa653e93dfdbb6729bc6b96"
+            checksum: "85ad95f037c305f8cb4d5bc0354ba2221c0e9d3e3e9914a5f72074edb4a44550"
         ),
         .binaryTarget(
             name: "REVUPMediaMaxAdapterBidMachineMediationAdapter",
