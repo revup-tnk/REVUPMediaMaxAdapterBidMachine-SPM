@@ -1,12 +1,30 @@
 {
   "pins" : [
     {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "02544c3400d228cce5718e22f71f8d02787ba91e",
+        "version" : "13.6.4"
+      }
+    },
+    {
+      "identity" : "applovin-max-swift-package-bidmachine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package-BidMachine.git",
+      "state" : {
+        "revision" : "a5521eecce51269b45c16995016b0f6200da09fc",
+        "version" : "308020000.0.0"
+      }
+    },
+    {
       "identity" : "bidmachine-spm",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/bidmachine/BidMachine-SPM.git",
       "state" : {
-        "revision" : "8534877b371cb42d26bd6cd57f34e28e05b88059",
-        "version" : "3.7.1"
+        "revision" : "abe2bcd7034a47d727513a73a8234702aa24b57d",
+        "version" : "3.8.2"
       }
     },
     {
